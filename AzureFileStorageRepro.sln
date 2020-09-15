@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFileStorageRepo", "AzureFileStorageRepo\AzureFileStorageRepo.csproj", "{B61AFF1E-E876-49C5-8E91-CB4CFF963FE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFileStorageRepro", "AzureFileStorageRepro\AzureFileStorageRepro.csproj", "{B61AFF1E-E876-49C5-8E91-CB4CFF963FE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
